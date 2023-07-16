@@ -157,8 +157,8 @@
     }
 
     .image-container {
-        width: 110px;
-        height: 150px;
+        width: 120px;
+        height: 151px;
 
         img{
             width: 100%;

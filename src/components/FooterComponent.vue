@@ -68,165 +68,172 @@
         <div class="container">
             <div class="footer-cols">
             
-            <div class="footer-col">
-                <ul>
-                <li>
-                    <h4 href="#">
-                    DC COMICS
-                    </h4>
-                </li>
-                <li>
-                    <a href="#">
-                    Characters
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                    Comics
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                    Movies
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                    TV
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                    Games
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                    Videos
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                    News
-                    </a>
-                </li>
-                <li>
-                    <h4 href="#">
-                    SHOP
-                    </h4>
-                </li>
-                <li>
-                    <a href="#">
-                    Shop DC
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                    Shop DC Collectibles
-                    </a>
-                </li>
-                </ul>
-            </div>
+                <div class="left">
+                    <div class="footer-col">
+                        <ul>
+                        <li>
+                            <h4 href="#">
+                            DC COMICS
+                            </h4>
+                        </li>
+                        <li>
+                            <a href="#">
+                            Characters
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                            Comics
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                            Movies
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                            TV
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                            Games
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                            Videos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                            News
+                            </a>
+                        </li>
+                        <li>
+                            <h4 href="#">
+                            SHOP
+                            </h4>
+                        </li>
+                        <li>
+                            <a href="#">
+                            Shop DC
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                            Shop DC Collectibles
+                            </a>
+                        </li>
+                        </ul>
+                    </div>
 
-            <div class="footer-col">
-                <ul>
-                <li>
-                    <h4 href="#">
-                    DC
-                    </h4>
-                </li>
-                <li>
-                    <a href="#">
-                    Terms Of Use
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                    Privacy policy (New)
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                    Ad Choices
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                    Advertising
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                    Jobs
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                    Subscritions
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                    Talent Workshops
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                    CPSC Certificates
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                    Ratings
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                    Shop Help
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                    Contact Us
-                    </a>
-                </li>
-                </ul>
-            </div>
+                <div class="footer-col">
+                    <ul>
+                    <li>
+                        <h4 href="#">
+                        DC
+                        </h4>
+                    </li>
+                    <li>
+                        <a href="#">
+                        Terms Of Use
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                        Privacy policy (New)
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                        Ad Choices
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                        Advertising
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                        Jobs
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                        Subscritions
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                        Talent Workshops
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                        CPSC Certificates
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                        Ratings
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                        Shop Help
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                        Contact Us
+                        </a>
+                    </li>
+                    </ul>
+                </div>
 
-            <div class="footer-col">
-                <ul>
-                <li>
-                    <h4 href="#">
-                    SITES
-                    </h4>
-                </li>
-                <li>
-                    <a href="#">
-                    DC
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                    MAD Magazine
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                    DC Kids
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                    DC Universe
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                    DC Power Visa
-                    </a>
-                </li>
-                </ul>
-            </div>
+                <div class="footer-col">
+                    <ul>
+                    <li>
+                        <h4 href="#">
+                        SITES
+                        </h4>
+                    </li>
+                    <li>
+                        <a href="#">
+                        DC
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                        MAD Magazine
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                        DC Kids
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                        DC Universe
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                        DC Power Visa
+                        </a>
+                    </li>
+                    </ul>
+                </div>
+                </div>
+                <div class="right">
+                    <div class="image-container">
+                        <img src="../assets/img/dc-logo-bg.png" alt="">
+                    </div>
+                </div>
 
             </div>
 
@@ -236,29 +243,32 @@
 
         <section class="footer-bottom">
         <div class="container">
+            
             <button>
             SIGN-UP NOW!
             </button>
             <div class="icons">
-            <h4>
-                FOLLOW US
-            </h4>
-            <a href="#">
-                FB
-            </a>
-            <a href="#">
-                TWITTER
-            </a>
-            <a href="#">
-                YT
-            </a>
-            <a href="#">
-                ()
-            </a>
-            <a href="#">
-                LOCATION
-            </a>
+                <h4>
+                    FOLLOW US
+                </h4>
+                <a href="#">
+                    FB
+                </a>
+                <a href="#">
+                    TWITTER
+                </a>
+                <a href="#">
+                    YT
+                </a>
+                <a href="#">
+                    ()
+                </a>
+                <a href="#">
+                    LOCATION
+                </a>
             </div>
+            
+           
         </div>
         </section>
 
@@ -285,6 +295,7 @@
 .footer-top {
 background-color: #0282F9;
 padding: 40px 10px;
+z-index: 2;
 
 .footer-logo {
   width: 35px;
@@ -308,65 +319,101 @@ padding: 40px 10px;
 }
 
 .footer-middle {
-background-image: url(../assets/img/footer-bg.jpg);
-padding-top: 30px;
-padding-bottom: 40px;
+    background-image: url(../assets/img/footer-bg.jpg);
+    padding-top: 30px;
+    padding-bottom: 40px;
+    z-index: 0;
 
-h4 {
-  color: white;
-  padding-top: 20px;
-  padding-bottom: 10px;
-}
+    .footer-cols {
+        display: flex;
+        justify-content: space-between;
 
-ul {
-  list-style: none;
-}
+        .left {
+            width: 80%;
 
-li{
-  margin-bottom: 3px;
-}
+            .footer-col {
+                display: inline-block;
+                
+            }
+        }
 
-a{
-  text-decoration: none;
-  color: grey;
-}
+        .right {
+            width: 20%;
+            position: relative;
+            
+
+            .image-container {
+                width: 450px;
+                position: absolute;
+                top: -45px;
+                right: 2px;
+
+                img{
+                    width: 100%;
+                    height: 100%
+                }
+            }
+        }
+    }
+
+
+
+    h4 {
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    }
+
+    ul {
+    list-style: none;
+    }
+
+    li{
+    margin-bottom: 3px;
+    }
+
+    a{
+    text-decoration: none;
+    color: grey;
+    }
 }
 
 .footer-bottom {
-background-color: #323232;
-padding: 20px 0;
+    background-color: #323232;
+    padding: 30px 0;
 
-.container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
 
-button {
-  background-color: rgba(0, 255, 255, 0);
-  border: 1px solid #0282F9 ;
-  color: white;
-  padding: 20px;
-  font-weight: bolder;  
-  cursor: pointer;
-}
+    .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    }
 
-.icons {
-  display: flex;
+    button {
+    background-color: rgba(0, 255, 255, 0);
+    border: 2px solid #0282F9 ;
+    color: white;
+    padding: 20px;
+    font-weight: bolder;  
+    cursor: pointer;
+    }
 
-  h4{
-    color: #0282F9;
-    margin-right: 20px;
-  }
+    .icons {
+    display: flex;
 
-  * {
-    margin-right: 10px;
-  }
+    h4{
+        color: #0282F9;
+        margin-right: 20px;
+    }
 
-  a {
-    text-decoration: none;
-    color: lightslategrey
-  }
-}
+    * {
+        margin-right: 10px;
+    }
+
+    a {
+        text-decoration: none;
+        color: lightslategrey
+    }
+    }
 }
 </style>
