@@ -100,7 +100,7 @@
                 </h4>
 
                 <div class="comics">
-                    <div class="comic" v-for="(singleComic, singleComicIndex) in comics" :key="singleComicIndex">
+                    <div class="comic" v-for="(singleComic, singleComicIndex) in comics">
                         <div class="image-container">
                             <img :src="singleComic.thumb" >
                             <h6>{{ singleComic.series }}</h6>

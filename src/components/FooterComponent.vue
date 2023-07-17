@@ -251,20 +251,20 @@
                 <h4>
                     FOLLOW US
                 </h4>
-                <a href="#">
-                    FB
+                <a href="#" >
+                    <i class="bi bi-facebook"></i>
                 </a>
                 <a href="#">
-                    TWITTER
+                    <i class="bi bi-twitter"></i>
                 </a>
                 <a href="#">
-                    YT
+                    <i class="bi bi-youtube"></i>
                 </a>
                 <a href="#">
                     ()
                 </a>
                 <a href="#">
-                    LOCATION
+                    <i class="bi bi-geo-alt-fill"></i>
                 </a>
             </div>
             
@@ -295,7 +295,7 @@
 .footer-top {
 background-color: #0282F9;
 padding: 40px 10px;
-z-index: 2;
+
 
 .footer-logo {
   width: 35px;
@@ -322,7 +322,8 @@ z-index: 2;
     background-image: url(../assets/img/footer-bg.jpg);
     padding-top: 30px;
     padding-bottom: 40px;
-    z-index: 0;
+    
+   
 
     .footer-cols {
         display: flex;
@@ -339,14 +340,13 @@ z-index: 2;
 
         .right {
             width: 20%;
-            position: relative;
+           
+           
             
 
             .image-container {
                 width: 450px;
-                position: absolute;
-                top: -45px;
-                right: 2px;
+               
 
                 img{
                     width: 100%;
@@ -375,6 +375,7 @@ z-index: 2;
     a{
     text-decoration: none;
     color: grey;
+    
     }
 }
 
@@ -412,7 +413,8 @@ z-index: 2;
 
     a {
         text-decoration: none;
-        color: lightslategrey
+        color: lightslategrey;
+        font-size: 30px;
     }
     }
 }

@@ -32,6 +32,8 @@
 
 <style lang="scss">
 
+  @use "assets/scss/main.scss";
+
   *{
     margin: 0;
     box-sizing: border-box;
